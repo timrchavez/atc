@@ -77,3 +77,5 @@ go run cmd/atc/*.go --add-local-user test:test --main-team-allow-all-users
 ```
 
 Concourse should be live at http://localhost:8080
+
+FOO
